@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class Controller {
     private Scanner scanner = new Scanner(System.in);
-
+    // Test
     private IPlayerAuthentication playerAuthentication;
 
     @Inject
